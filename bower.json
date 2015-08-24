@@ -37,7 +37,7 @@
     "xp-emitter": "ExpandJS/xp-emitter#0.9.7",
     "xp-finder-behavior": "ExpandJS/xp-finder-behavior#0.9.7",
     "xp-focused-behavior": "ExpandJS/xp-focused-behavior#0.9.7",
-    "xp-form": "ExpandJS/xp-form#0.9.7",
+    "xp-form": "trustifier/xp-form#0.9.8",
     "xp-grid": "ExpandJS/xp-grid#0.9.7",
     "xp-i18n-behavior": "ExpandJS/xp-i18n-behavior#0.9.7",
     "xp-icon": "ExpandJS/xp-icon#0.9.7",
